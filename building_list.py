@@ -1,6 +1,0 @@
-Stuff = list()
-Stuff.append('book')
-Stuff.append('99')
-print (Stuff)
-Stuff.append('cookie')
-print(Stuff)
